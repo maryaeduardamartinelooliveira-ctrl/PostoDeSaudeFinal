@@ -127,6 +127,10 @@ header nav {
   flex-wrap: wrap;
   gap: 5px;
 }
+footer{
+    text-align: center;
+    padding: 25px;
+}
 
 .card {
   box-shadow: 0 2px 6px rgba(10, 10, 10, 0.767);
